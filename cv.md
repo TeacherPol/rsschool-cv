@@ -33,7 +33,10 @@ _2025_
 
 
 ## 🎓 Education & Training
-- ****Maxim Tank Belarusian State Pedagogical University Faculty of Belarusian Philology and Culture, University of Silesia in Katowice School of Polish Language and Culture Professional development program in teaching Polish language and culture as a foreign language. Specialized training for educators in Polish as a foreign language._(2006–2007), School of Business of Belarusian State University (BSU)._ (2020–2021). Specialization: English Language Teaching Advanced training program focused on methodology and practice of teaching English as a foreign language _ (2020-2021)
+### 🏛️ Formal Education
+- ****Maxim Tank Belarusian State Pedagogical University Faculty of Belarusian Philology and Culture,  
+### 🧑‍🏫 Specialized Training
+University of Silesia in Katowice School of Polish Language and Culture Professional development program in teaching Polish language and culture as a foreign language.Specialized training for educators in Polish as a foreign language._(2006–2007), School of Business of Belarusian State University (BSU)._ (2020–2021). Specialization: English Language Teaching Advanced training program focused on methodology and practice of teaching English as a foreign language _ (2020-2021)
 - RSSchool Git & Markdown Course _(2025)_
 - Ongoing coursework in marketing theory and Instagram strategy
 
